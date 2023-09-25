@@ -1,6 +1,6 @@
-# Analisis-Dataframe-Netflix
+# **Analisis Datos Netflix**  
+<img src="net.png" alt="Netflix" style="margin-top: 2px; margin-bottom: 2px; margin-left: 8px; margin-right: 10px;">
 
-# Análisis de Datos de Netflix
 
 ## Descripción:<br>
 
