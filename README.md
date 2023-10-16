@@ -1,4 +1,10 @@
 # **Analisis Datos Netflix**  
+![Static Badge](https://img.shields.io/badge/python-green?link=https%3A%2F%2Fwww.python.org%2F)
+![Static Badge](https://img.shields.io/badge/datascience-teal?link=https%3A%2F%2Fmedium.com%2F%40Side_by_Side)
+![Static Badge](https://img.shields.io/badge/pandas-blue?link=https%3A%2F%2Fpandas.pydata.org%2Fpandas-docs%2Fstable%2Findex.html)
+![Static Badge](https://img.shields.io/badge/numpy-aqua?link=https%3A%2F%2Fnumpy.org%2F)
+![Static Badge](https://img.shields.io/badge/jupyternotebook-orange?link=https%3A%2F%2Fjupyter.org%2F)
+
 <img src="net.png" alt="Netflix" style="margin-top: 2px; margin-bottom: 2px; margin-left: 8px; margin-right: 10px;">
 
 
